@@ -106,4 +106,5 @@ Also includes graphs for:
 - OpenCV (planned for real-time extension)
 
 ---
+📌 This project was developed as part of my internship at **Unified Mentor** under the guidance of industry experts.
 
